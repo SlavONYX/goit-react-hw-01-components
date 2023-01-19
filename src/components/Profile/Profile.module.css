@@ -1,0 +1,80 @@
+.profile {
+    width: 1000px;
+    background-color: white;
+    display: flex;
+    margin:auto;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    width: 400px;
+    box-shadow: 0 0 5px #c6cccced;
+    border-radius: 10px;
+  }
+  
+  .description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: inherit;
+  }
+  
+  .avatar {
+    width: 120px;
+    box-shadow: 0 0 3px 0px black;
+    border-radius: 50%;
+    padding: 20px 10px 0px 10px;
+    margin-bottom: 25px;
+  }
+  
+  .name {
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: black;
+  }
+  
+  .tag {
+    font-weight: 500;
+    font-size: 20px;
+    color: #b9b8c3;
+    margin-bottom: 15px;
+  }
+  
+  .location {
+    font-weight: 700;
+    font-size: 20px;
+    color: #b9b8c3;
+    margin-bottom: 15px;
+  }
+  .stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0;
+    width: inherit;
+    background-color: #e8e9ec;
+  }
+  
+  .stats > li {
+    display: flex;
+    width: inherit;
+    flex-direction: column;
+    align-items: center;
+    min-width: 120px;
+    padding: 7px 0;
+    border-top: #7e6f7498 solid 1px;
+    box-shadow: 0 0 5px #c6cccced;
+  }
+  
+  .label {
+    margin-right: 3px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #524a4d8b;
+    margin-bottom: 5px;
+  }
+  
+  .quantity {
+    font-weight: 800;
+    font-size: 20px;
+  }
