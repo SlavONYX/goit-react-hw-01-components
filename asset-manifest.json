@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SlavONYX/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/SlavONYX/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
+    "main.css": "/SlavONYX/goit-react-hw-01-components.git/static/css/main.1379ae9e.css",
+    "main.js": "/SlavONYX/goit-react-hw-01-components.git/static/js/main.6c832e95.js",
     "index.html": "/SlavONYX/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/SlavONYX/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/SlavONYX/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
+    "main.1379ae9e.css.map": "/SlavONYX/goit-react-hw-01-components.git/static/css/main.1379ae9e.css.map",
+    "main.6c832e95.js.map": "/SlavONYX/goit-react-hw-01-components.git/static/js/main.6c832e95.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.1379ae9e.css",
+    "static/js/main.6c832e95.js"
   ]
 }
